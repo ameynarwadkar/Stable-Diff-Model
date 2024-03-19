@@ -38,8 +38,13 @@ Some images generated using this application have been saved for reference. You 
 
 Here are a few examples of images generated using this application:
 
-1. ![Image 1](generated_images/image1.png)
-2. ![Image 2](generated_images/image2.png)
-3. ![Image 3](generated_images/image3.png)
+
+<div class="image-container">
+  <img src="generated_images/image1.jpg" alt="Image 1">
+  <img src="generated_images/image2.jpg" alt="Image 2">
+  <img src="generated_images/image3.jpg" alt="Image 3">
+</div>
+
+
 
 Feel free to explore more by providing different text prompts and experimenting with the model's capabilities!
