@@ -1,1 +1,1 @@
-authtoken = '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'
+authtoken = 'YOUR_HF_AUTHTOKEN'
