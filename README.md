@@ -39,11 +39,13 @@ Some images generated using this application have been saved for reference. You 
 Here are a few examples of images generated using this application:
 
 
-<div class="image-container">
-  <img src="generated_images/image1.jpg" alt="Image 1">
-  <img src="generated_images/image2.jpg" alt="Image 2">
-  <img src="generated_images/image3.jpg" alt="Image 3">
+<div style="display: flex;">
+    <img src="generated_images/image1.png" alt="Image 1" style="width: 200px; margin-right: 20px;">
+    <img src="generated_images/image2.png" alt="Image 2" style="width: 200px;">
+    <img src="generated_images/image3.png" alt="Image 2" style="width: 200px;">
+
 </div>
+
 
 
 
