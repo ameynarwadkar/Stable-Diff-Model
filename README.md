@@ -12,10 +12,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-To run the application, simply execute the `main.py` file:
+To run the application, simply execute the `app.py` file:
 
 ```bash
-python main.py
+python app.py
 ```
 
 Once the GUI window opens, you can input a text prompt in the provided entry field and click on the "Generate" button. This will trigger the generation of an image based on the provided prompt.
